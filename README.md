@@ -1,6 +1,6 @@
 ### hello
-he/they
-generic programmer person
+he/they  
+generic programmer person  
 doing a lot of web dev, check out wklejkosz
 - node.js
 - rust(learning)
@@ -8,4 +8,5 @@ doing a lot of web dev, check out wklejkosz
 - kotlin(trying)
 - html
 - css
+
 make cool stuff, take care of yourself
